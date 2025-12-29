@@ -23,7 +23,7 @@ export const About: React.FC = () => {
       name: "Ishmael Abakah",
       role: "Founder",
       bio: "A visionary entrepreneur dedicated to unlocking human and corporate potential through strategic digital transformation. Ishmael leads Midas Touch with a focus on innovation and global scale.",
-      image: "https://img.sanishtech.com/u/b6eb3b5bc677fe9dd61e45a2796a449a.png",
+      image: "https://i.pinimg.com/1200x/87/89/08/87890865db20992bcf2e06ec67674aeb.jpg",
       socials: [
         { icon: <Linkedin size={18} />, href: "https://www.linkedin.com/in/ishmeal-abakah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
         { icon: <Twitter size={18} />, href: "https://x.com/MOdiksin?t=Lxei8chEwniTFB33RMfv0w&s=09" }
@@ -33,7 +33,7 @@ export const About: React.FC = () => {
       name: "Philipa Armah",
       role: "Lead Developer",
       bio: "An elite software architect specializing in scalable full-stack systems and intuitive UI/UX. Philipa oversees the technical precision of every digital artifact we deploy.",
-      image: "https://img.sanishtech.com/u/d4fef652cb9bfcc5780727b35b547470.png",
+      image: "https://i.pinimg.com/1200x/e7/33/76/e73376280267e28d8e55492b45457e82.jpg",
       socials: [
         { icon: <Linkedin size={18} />, href: "https://www.linkedin.com/in/philipa-armah" },
         { icon: <Github size={18} />, href: "https://github.com/armahphilipa" }
