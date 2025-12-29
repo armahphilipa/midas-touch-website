@@ -1,0 +1,8 @@
+{
+  "name": "Midas Touch Consult Group",
+  "description": "A high-end tech consultancy website featuring a Gemini-powered AI assistant, interactive portfolio, and modern design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
