@@ -36,8 +36,8 @@ export const Footer: React.FC = () => {
               <div className="w-[120px] h-10 flex items-center transition-transform duration-500 group-hover:scale-105">
                 <img 
                   src={isDarkMode 
-                    ? 'https://img.sanishtech.com/u/4127a01ad7c82d244e621064ae5285e8.png' 
-                    : 'https://img.sanishtech.com/u/d4fdadeac4c7a186738ae2b4cfb01b6e.png'
+                  ? 'https://img.sanishtech.com/u/86b8a5a4b6350ce1215538ccdb944729.png' 
+                  : 'https://img.sanishtech.com/u/79a31aaeda83fceac7f498c32f08715a.png'
                   } 
                   alt="Midas Touch Logo" 
                   className="w-full h-full object-contain"
