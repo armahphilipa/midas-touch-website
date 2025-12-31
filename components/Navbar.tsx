@@ -56,7 +56,8 @@ export const Navbar: React.FC = () => {
     >
       <img 
         src={isDarkMode 
-          ? 'https://image2url.com/r2/default/images/1767189509445-57be120a-10b6-4f78-ba59-54a905c660c0.png':'https://image2url.com/r2/default/images/1767189738009-74ed5508-f537-4213-ba9d-88808fa89e45.png} 
+          ? 'https://image2url.com/r2/default/images/1767189509445-57be120a-10b6-4f78-ba59-54a905c660c0.png':'https://image2url.com/r2/default/images/1767189738009-74ed5508-f537-4213-ba9d-88808fa89e45.png' 
+          } 
           alt="Midas Touch Logo" 
           className="w-full h-full object-contain"
         />
